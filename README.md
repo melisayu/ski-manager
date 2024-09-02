@@ -9,6 +9,10 @@ To see deployed version, go to: https://ski-manager.vercel.app/
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs dependencies and devDependencies automatically before starting development mode.
+
 ### `npm start`
 
 Runs the app in the development mode.\
